@@ -4,6 +4,6 @@ maintainer_email 'me@cobus.io'
 license          'MIT'
 description      'Installs/Configures chef-wrapper-omnibus-updater'
 long_description 'Installs/Configures chef-wrapper-omnibus-updater'
-version          '0.1.0'
+version          '0.1.2'
 
-depends 'omnibus_updater', '~> 1.0.4'
+depends 'omnibus_updater', '~> 1.0.6'

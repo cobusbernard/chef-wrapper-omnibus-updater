@@ -24,4 +24,4 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #
 
-include_recipe "omnibus_updater::default"
+include_recipe 'omnibus_updater::default'
